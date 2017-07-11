@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view>
+    <view class="page-top">
+        <text class="username">猜拳游戏</text>
+        
+        <view class="page-btn-wrap">
+            <button class="page-btn" bindtap="gotoGame">进入游戏</button>
+        </view>
+    </view>
+   
+</view>
